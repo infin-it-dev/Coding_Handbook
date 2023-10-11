@@ -1,4 +1,7 @@
-// Java is an object oriented language and is one of the most popular languages in the world
+package Java;
+
+
+// The programing language, Java, is an object oriented language and is one of the most popular languages in the world
 // It is used to create desktop applications, web applications, mobile applications, and many more
 // It is also used to create games and is the primary language for Android development
 // It is a beginer friendly language and is easy to learn
