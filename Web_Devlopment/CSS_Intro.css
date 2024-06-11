@@ -1,0 +1,44 @@
+/* CSS Intro */
+
+/* Select the HTML element with the class "intro" */
+.intro {
+    /* Set the font size to 24 pixels */
+    font-size: 24px;
+    
+    /* Set the text color to blue */
+    color: blue;
+    
+    /* Set the background color to light gray */
+    background-color: lightgray;
+    
+    /* Add padding of 10 pixels to all sides */
+    padding: 10px;
+    
+    /* Add a border with a width of 1 pixel, solid style, and black color */
+    border: 1px solid black;
+    
+    /* Center align the text */
+    text-align: center;
+    
+    /* Add a margin of 20 pixels to the top and bottom, and auto to the left and right */
+    margin: 20px auto;
+    
+    /* Add a box shadow with a horizontal offset of 2 pixels, vertical offset of 2 pixels, blur radius of 5 pixels, and black color */
+    box-shadow: 2px 2px 5px black;
+    
+    /* Add a transition effect to the background color with a duration of 0.3 seconds */
+    transition: background-color 0.3s;
+}
+
+/* On hover, change the background color to light blue */
+.intro:hover {
+    background-color: lightblue;
+}
+
+/* Add a media query for screens with a maximum width of 600 pixels */
+@media (max-width: 600px) {
+    /* Change the font size to 18 pixels */
+    .intro {
+        font-size: 18px;
+    }
+}
