@@ -1,7 +1,27 @@
-public static Java_Advancing
+package Java;
+import java.util.Scanner;
 
-public static void main string (args[]) (
-    System.out.println("Coming Soon!");
-    System.out.println("Can't wait to see ya'll at Hacktober!");
-)
+
+public class Java_Advancing {
+
+public static void main (String [] args) {
+    System.out.println("Lets try a Scanner!");
+
+    System.out.println("What is your name?");
+
+
+
+    Scanner name = new Scanner (System.in);
+
+
+    String nameString = name.nextLine();
+
+
+    System.out.println("Your name is " + nameString + "!");
+
+
+}
+
+}
+
 
