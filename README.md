@@ -3,7 +3,7 @@
 
 
 
-This handbook will (hopefully) contain basic knowledge for every day coding languages. If you would like to help out, please do!
+This handbook will (hopefully) ( Mostly ) contain basic knowledge for everyday coding languages. If you would like to help out, please do!
 
 
 
